@@ -3,7 +3,7 @@ import requests
 import time
 import os
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"  # Замените на свой токен
+TOKEN = "8652125406:AAHYxFtCGzkB_HnFyXs_YBvBlKMIgaxHIrc"  # Замените на свой токен
 
 print("Очистка старых сессий бота...")
 for i in range(5):
