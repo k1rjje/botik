@@ -19,10 +19,8 @@ for i in range(5):
 print("Старые сессии очищены, запускаем бота...\n")
 time.sleep(2)
 
-!pip
-install
-python - telegram - bot
-nest_asyncio - q
+os.system("!pip install python-telegram-bot")
+os.system("!pip install nest_asyncio -q")
 
 import json
 import random
